@@ -1,0 +1,16 @@
+{
+    "name": "acer/api-sample-php",
+    "description": "A simple Restfull Api PHP",
+    "autoload": {
+        "psr-4": {
+            "Acer\\ApiSamplePhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dickyarya404",
+            "email": "dickyarya404@gmail.com"
+        }
+    ],
+    "require": {}
+}
